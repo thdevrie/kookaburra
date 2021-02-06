@@ -1,0 +1,11 @@
+{
+    "files.autoSave": "afterDelay",
+    "files.exclude": {
+        "downloads/": true,
+        "opt/": true,
+        "src/out":true
+    },
+    "C_Cpp.default.includePath": [
+        "./src/headers"
+    ]
+}
